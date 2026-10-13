@@ -19,7 +19,7 @@ to showcase my AWS Projects
 
 
 3.Website on Cloud Write up 20260901.docx
-Level Setting up a website on Cloud
+ -  Setting up a website on Cloud
 Description
  - You are a Cloud engineer. Your company has brought in a new client who has got a website. However, they need a web server so that they can run their website completely on Cloud. Once the web server is up and running, they want you to configure the Cloud so that testing of the web server can be completed successfully.
  - Steps to Perform:
