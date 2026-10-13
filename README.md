@@ -30,6 +30,8 @@ Description
  -  The monitoring team at Heaven Classics started monitoring activities using the CloudWatch Service in the AWS Management Console. The Heaven Classics support team were required to meet the following objectives:
 
 
+5. Capstone_Staticwebste2Cloud.docx
+ -  I successfully deployed a static multi page website to AWS using S3 for hosting and CloudFront for global distribution, including correct bucket policy configuration and validation.
  
 
 
