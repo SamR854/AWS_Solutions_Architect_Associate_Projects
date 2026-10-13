@@ -17,7 +17,6 @@ to showcase my AWS Projects
   - Tools required: AWS Services - CloudWatch, Auto Scaling, EC2
   - Use Auto Scaling to manage the EC2 instances and use EC2 instance and capture the metrics in the CloudWatch.
 
-
 3.Website on Cloud Write up 20260901.docx
  -  Setting up a website on Cloud
 Description
@@ -28,7 +27,6 @@ Description
  -  Heaven Classics successfully creates an EC2 Server Instance for Windows 2012 Server. After launching the instance on the server, the next step was to monitor the operations.
  -  Monitoring is important to keep an eye on the performance of an EC2 instance. It helps gather data from all parts and is useful for debugging failure.
  -  The monitoring team at Heaven Classics started monitoring activities using the CloudWatch Service in the AWS Management Console. The Heaven Classics support team were required to meet the following objectives:
-
 
 5. Capstone_Staticwebste2Cloud.docx
  -  I successfully deployed a static multi page website to AWS using S3 for hosting and CloudFront for global distribution, including correct bucket policy configuration and validation.
