@@ -22,9 +22,15 @@ to showcase my AWS Projects
  -  Setting up a website on Cloud
 Description
  - You are a Cloud engineer. Your company has brought in a new client who has got a website. However, they need a web server so that they can run their website completely on Cloud. Once the web server is up and running, they want you to configure the Cloud so that testing of the web server can be completed successfully.
- - Steps to Perform:
+ 
+ 4.AWS Tech Ess– Server Monitor+SNS.docx
+ -  Server Monitoring
+ -  Heaven Classics successfully creates an EC2 Server Instance for Windows 2012 Server. After launching the instance on the server, the next step was to monitor the operations.
+ -  Monitoring is important to keep an eye on the performance of an EC2 instance. It helps gather data from all parts and is useful for debugging failure.
+ -  The monitoring team at Heaven Classics started monitoring activities using the CloudWatch Service in the AWS Management Console. The Heaven Classics support team were required to meet the following objectives:
 
-4.
+
+ 
 
 
 ## Author
